@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CyberBill1
-- 👀 I’m interested in Cybersecurity, Networking and coding 
-- 🌱 I’m currently learning HTML and Linux
+- 👋 Hi, I’m Ede Ifeanyichukwu Barth Alias @CyberBill1
+- 👀 I’m interested in Information Security, Cloud Security, Linux and Coding 
+- 🌱 I’m currently learning AWS and Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
