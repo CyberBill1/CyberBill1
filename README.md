@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Ede Ifeanyichukwu Barth Alias @CyberBill1
+
 - 👀 I’m interested in Information Security, Cloud Security, Linux and Coding 
-- 🌱 I’m currently learning AWS and Linux
+
+- 🌱 I’m currently learning AWS, Azure and Linux Scripting
+
 - 💞️ I’m looking to collaborate on areas involving IT security and cloud. ...
+
 - 📫 How to reach me ...
 
 Personal Website: https://cyberbill1.github.io/ifeanyi-barth
