@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ede Ifeanyichukwu Barth Alias @CyberBill1
 
-- 👀 I’m interested in Information Security, Cloud Security, Linux and Coding 
+- 👀 I’m interested in Information Security, Cloud computing and Security, Linux, scripting and programming.
 
 - 🌱 I’m currently learning AWS, Azure and Linux Scripting
 
