@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Information Security, Cloud computing and Security, Linux, scripting and programming.
 
-- 🌱 I’m currently learning AWS, Azure and Linux Scripting
+- 🌱 I’m currently learning AWS, Azure and Process Automation
 
 - 💞️ I’m looking to collaborate on areas involving IT security and cloud. ...
 
